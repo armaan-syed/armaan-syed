@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Syed%20Armaan%20Irfan&fontSize=52&fontColor=58a6ff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Shipping%20Ideas&descAlignY=75&descSize=16&descColor=8b949e" alt="Armaan profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:112240,60:1e6091,100:38ada9&height=220&section=header&text=Syed%20Armaan%20Irfan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Shipping%20Ideas&descAlignY=55&descSize=17" alt="Armaan profile banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+from+India;Building+AI-powered+products+that+solve+real+problems;React+%7C+TypeScript+%7C+Python+%7C+FastAPI+%7C+Electron;Always+learning%2C+always+building" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=2600&pause=900&color=38ADA9&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+from+India;Building+AI-powered+products+that+solve+real+problems;React+%7C+TypeScript+%7C+Python+%7C+FastAPI+%7C+Electron;Always+learning%2C+always+building" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/armaan-syed?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-21262d?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="Explore projects" /></a>
-  <a href="https://www.linkedin.com/in/armaan-syed-ab4a582a5/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:armaansyed010@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-21262d?style=for-the-badge&logo=gmail&logoColor=f78166" alt="Email Armaan" /></a>
+  <a href="https://github.com/armaan-syed?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://www.linkedin.com/in/armaan-syed-ab4a582a5/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:armaansyed010@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Armaan" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20India-161b22?style=flat-square&labelColor=161b22" alt="India" />
-  <img src="https://img.shields.io/badge/Focus-AI%20·%20Full%20Stack%20·%20Desktop%20Apps-161b22?style=flat-square&labelColor=161b22" alt="AI, full stack, and desktop app focus" />
+  <img src="https://img.shields.io/badge/📍%20India-112240?style=flat-square" alt="India" />
+  <img src="https://img.shields.io/badge/Focus-AI%20·%20Full%20Stack%20·%20Desktop%20Apps-112240?style=flat-square" alt="AI, full stack, and desktop app focus" />
 </p>
 
 ---
@@ -28,10 +28,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-58a6ff?style=flat-square&labelColor=161b22" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Flask%20%7C%20Node.js-3fb950?style=flat-square&labelColor=161b22" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/Desktop-Electron%20%7C%20IPC-d2a8ff?style=flat-square&labelColor=161b22" alt="Desktop stack" />
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQLModel%20%7C%20Supabase-f78166?style=flat-square&labelColor=161b22" alt="Data stack" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-38ada9?style=flat-square&labelColor=112240" alt="Frontend stack" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Flask%20%7C%20Node.js-1e6091?style=flat-square&labelColor=112240" alt="Backend stack" />
+  <img src="https://img.shields.io/badge/Desktop-Electron%20%7C%20IPC-82ccdd?style=flat-square&labelColor=112240" alt="Desktop stack" />
+  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQLModel%20%7C%20Supabase-60a3bc?style=flat-square&labelColor=112240" alt="Data stack" />
 </p>
 
 ---
@@ -97,16 +97,16 @@ Biometric-gated crypto wallet prototype. Face authentication meets MetaMask for 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armaan-syed-ab4a582a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Armaan%20Irfan-21262d?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Armaan%20Irfan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:armaansyed010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-armaansyed010%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=f78166" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-armaansyed010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/armaan-syed">
-    <img src="https://img.shields.io/badge/GitHub-armaan--syed-21262d?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-armaan--syed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=1&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ada9,40:1e6091,100:0d1117&height=110&section=footer" alt="Footer wave" />
 </p>
