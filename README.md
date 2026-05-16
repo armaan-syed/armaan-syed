@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-e94560?style=flat-square&labelColor=1a1a2e" alt="Frontend stack" />&nbsp;
   <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Flask%20%7C%20Node.js-f5a623?style=flat-square&labelColor=1a1a2e" alt="Backend stack" />&nbsp;
   <img src="https://img.shields.io/badge/Desktop-Electron%20%7C%20IPC-e94560?style=flat-square&labelColor=1a1a2e" alt="Desktop stack" />&nbsp;
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQLModel%20%7C%20Supabase-f5a623?style=flat-square&labelColor=1a1a2e" alt="Data stack" />
+  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQLModel%20%7C%20PostgreSQL%20%7C%20MySQL%20%7C%20Supabase-f5a623?style=flat-square&labelColor=1a1a2e" alt="Data stack" />
 </p>
 
 <br/>
