@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20India-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="India" />&nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20·%20Full%20Stack%20·%20Desktop%20Apps-1a1a2e?style=flat-square&labelColor=e94560" alt="Focus areas" />
+  <img src="https://img.shields.io/badge/Focus-AI%20·%20Full%20Stack%20·%20Desktop%20Apps%20·%20Java%20·%20DSA-1a1a2e?style=flat-square&labelColor=e94560" alt="Focus areas" />
 </p>
 
 <br/>
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,js,react,nextjs,vite,tailwind,nodejs,express,fastapi,flask,electron,supabase,firebase,mongodb,git,github,docker,figma,vercel&theme=dark&perline=10" alt="Tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=ts,python,js,java,react,nextjs,vite,tailwind,nodejs,express,fastapi,flask,electron,supabase,firebase,mongodb,postgres,mysql,git,github,figma,vercel&theme=dark&perline=11" alt="Tech stack icons" />
   </a>
 </p>
 
