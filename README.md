@@ -8,12 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/armaan-syed?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/armaan-syed-ab4a582a5/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:armaansyed010@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Armaan" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=armaan-syed&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/India-14b8a6?style=flat-square" alt="India" />
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack%20%2B%20Desktop%20Apps-0f172a?style=flat-square" alt="AI, full stack, and desktop app focus" />
 </p>
@@ -23,6 +22,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 </div>
+
+## ⚡ Tech
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,python,js,react,nextjs,vite,tailwind,nodejs,express,fastapi,flask,electron,supabase,firebase,mongodb,git,github,docker,figma,vercel" alt="Tech stack icons" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-00d4ff?style=flat-square" alt="Frontend stack" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Flask%20%7C%20Node.js-14b8a6?style=flat-square" alt="Backend stack" />
+  <img src="https://img.shields.io/badge/Desktop-Electron%20%7C%20IPC-6c3ce0?style=flat-square" alt="Desktop stack" />
+  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQLModel%20%7C%20Supabase-facc15?style=flat-square" alt="Data stack" />
+</p>
+
+---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -81,52 +97,12 @@ Biometric-gated crypto wallet prototype. Face authentication meets MetaMask for 
 
 ---
 
-## ⚡ Tech Arsenal
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,js,react,nextjs,vite,tailwind,nodejs,express,fastapi,flask,electron,supabase,firebase,mongodb,git,github,docker,figma,vercel" alt="Tech stack icons" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vite-00d4ff?style=flat-square" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Flask%20%7C%20Node.js-14b8a6?style=flat-square" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/Desktop-Electron%20%7C%20IPC-6c3ce0?style=flat-square" alt="Desktop stack" />
-  <img src="https://img.shields.io/badge/Data-Python%20%7C%20SQLModel%20%7C%20Supabase-facc15?style=flat-square" alt="Data stack" />
-</p>
-
----
-
-## 📊 GitHub Pulse
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armaan-syed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=armaan-syed&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armaan-syed&theme=tokyonight" alt="GitHub contribution profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armaan-syed&theme=tokyonight" alt="Repositories per language" height="195" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armaan-syed&theme=tokyonight" alt="Most committed languages" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armaan-syed&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
 ---
 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/armaan-syed-ab4a582a5/">
     <img src="https://img.shields.io/badge/LinkedIn-Syed%20Armaan%20Irfan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:armaansyed010@gmail.com">
