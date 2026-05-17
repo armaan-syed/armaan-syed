@@ -49,7 +49,7 @@ SaaS platform for end-to-end sales workflow automation with AI-driven recommenda
 
 `Next.js` `React` `TypeScript` `AI/LLM` `SaaS`
 
-[🔗 Live Demo](https://pravaha-ieee.vercel.app)
+[🔗 Live Demo](https://pravaha-ieee.vercel.app) | [📂 View Repo](https://github.com/junaidjmomin/pravaha)
 
 </td>
 <td width="50%" valign="top">
