@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20India-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="India" />&nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20·%20Full%20Stack%20·%20Desktop%20Apps%20·%20Java%20·%20DSA-1a1a2e?style=flat-square&labelColor=e94560" alt="Focus areas" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20India-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="India" />&nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Full%20Stack%20%C2%B7%20Desktop%20Apps%20%C2%B7%20Java%20%C2%B7%20DSA-1a1a2e?style=flat-square&labelColor=e94560" alt="Focus areas" />
 </p>
 
 <br/>
 
-## ⚡ Tech
+## Tech
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,64 +36,46 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+- ### [Pravaha - AI Sales Platform](https://pravaha-ieee.vercel.app)
+  SaaS platform for end-to-end sales workflow automation with AI-driven recommendation logic, real-time call coaching, and smart proposal generation.
+  
+  `Next.js` `React` `TypeScript` `AI/LLM` `SaaS`
+  
+  [Live Demo](https://pravaha-ieee.vercel.app) | [View Repo](https://github.com/junaidjmomin/pravaha)
 
-### 🤖 [Pravaha — AI Sales Platform](https://pravaha-ieee.vercel.app)
+- ### [Dark Data Detective](https://github.com/armaan-syed/Dark-data-Part_A)
+  Desktop app that scans local storage for hidden "dark data", detects duplicate files, flags privacy risks, and generates smart cleanup recommendations.
+  
+  `Electron` `React` `TypeScript` `FastAPI` `Python`
+  
+  [View Repo](https://github.com/armaan-syed/Dark-data-Part_A)
 
-SaaS platform for end-to-end sales workflow automation with AI-driven recommendation logic, real-time call coaching, and smart proposal generation.
+- ### [PhishGuard - AI Phishing Detection Tool](https://github.com/armaan-syed/Phishing-detection-)
+  Cybersecurity web app that analyzes suspicious URLs and emails using handcrafted phishing indicators, machine learning, and a clean dashboard with scan history.
+  
+  `React` `Vite` `Tailwind CSS` `FastAPI` `scikit-learn` `SQLite`
+  
+  [View Repo](https://github.com/armaan-syed/Phishing-detection-)
 
-`Next.js` `React` `TypeScript` `AI/LLM` `SaaS`
+- ### [Swarm AI](https://github.com/armaan-syed/Swarm_AI)
+  Multi-agent AI orchestration platform with real-time collaboration - multiple AI agents working together to solve complex tasks.
+  
+  `TypeScript` `Next.js` `Vercel AI SDK` `Multi-Agent`
+  
+  [Live Demo](https://swarm-ai-orpin.vercel.app)
 
-[🔗 Live Demo](https://pravaha-ieee.vercel.app) | [📂 View Repo](https://github.com/junaidjmomin/pravaha)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [Dark Data Detective](https://github.com/armaan-syed/Dark-data-Part_A)
-
-Desktop app that scans local storage for hidden "dark data", detects duplicate files, flags privacy risks, and generates smart cleanup recommendations.
-
-`Electron` `React` `TypeScript` `FastAPI` `Python`
-
-[📂 View Repo](https://github.com/armaan-syed/Dark-data-Part_A)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Swarm AI](https://github.com/armaan-syed/Swarm_AI)
-
-Multi-agent AI orchestration platform with real-time collaboration — multiple AI agents working together to solve complex tasks.
-
-`TypeScript` `Next.js` `Vercel AI SDK` `Multi-Agent`
-
-[🔗 Live Demo](https://swarm-ai-orpin.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [BioVault](https://github.com/armaan-syed/BoiVault)
-
-Biometric-gated crypto wallet prototype. Face authentication meets MetaMask for secure, keyless Web3 transactions.
-
-`React` `JavaScript` `Web3` `MetaMask` `Biometrics`
-
-[📂 View Repo](https://github.com/armaan-syed/BoiVault)
-
-</td>
-</tr>
-</table>
-</div>
+- ### [BioVault](https://github.com/armaan-syed/BoiVault)
+  Biometric-gated crypto wallet prototype. Face authentication meets MetaMask for secure, keyless Web3 transactions.
+  
+  `React` `JavaScript` `Web3` `MetaMask` `Biometrics`
+  
+  [View Repo](https://github.com/armaan-syed/BoiVault)
 
 <br/>
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/armaan-syed-ab4a582a5/">
