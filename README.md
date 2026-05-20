@@ -36,42 +36,59 @@
 
 <br/>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-- ### [Pravaha - AI Sales Platform](https://pravaha-ieee.vercel.app)
-  SaaS platform for end-to-end sales workflow automation with AI-driven recommendation logic, real-time call coaching, and smart proposal generation.
-  
-  `Next.js` `React` `TypeScript` `AI/LLM` `SaaS`
-  
-  [Live Demo](https://pravaha-ieee.vercel.app) | [View Repo](https://github.com/junaidjmomin/pravaha)
+<p align="center">
+  A few builds I am especially proud of - AI, security, automation, and product thinking in one place.
+</p>
 
-- ### [Dark Data Detective](https://github.com/armaan-syed/Dark-data-Part_A)
-  Desktop app that scans local storage for hidden "dark data", detects duplicate files, flags privacy risks, and generates smart cleanup recommendations.
-  
-  `Electron` `React` `TypeScript` `FastAPI` `Python`
-  
-  [View Repo](https://github.com/armaan-syed/Dark-data-Part_A)
+### 🤖 [Pravaha - AI Sales Platform](https://pravaha-ieee.vercel.app)
+> AI-powered sales workflow platform built for smarter outreach, coaching, and proposal generation.
 
-- ### [PhishGuard - AI Phishing Detection Tool](https://github.com/armaan-syed/Phishing-detection-)
-  Cybersecurity web app that analyzes suspicious URLs and emails using handcrafted phishing indicators, machine learning, and a clean dashboard with scan history.
-  
-  `React` `Vite` `Tailwind CSS` `FastAPI` `scikit-learn` `SQLite`
-  
-  [View Repo](https://github.com/armaan-syed/Phishing-detection-)
+`Next.js` `React` `TypeScript` `AI/LLM` `SaaS`
 
-- ### [Swarm AI](https://github.com/armaan-syed/Swarm_AI)
-  Multi-agent AI orchestration platform with real-time collaboration - multiple AI agents working together to solve complex tasks.
-  
-  `TypeScript` `Next.js` `Vercel AI SDK` `Multi-Agent`
-  
-  [Live Demo](https://swarm-ai-orpin.vercel.app)
+✨ End-to-end sales automation with recommendation logic, live call support, and smart document generation.  
+🔗 [Live Demo](https://pravaha-ieee.vercel.app) • [View Repo](https://github.com/junaidjmomin/pravaha)
 
-- ### [BioVault](https://github.com/armaan-syed/BoiVault)
-  Biometric-gated crypto wallet prototype. Face authentication meets MetaMask for secure, keyless Web3 transactions.
-  
-  `React` `JavaScript` `Web3` `MetaMask` `Biometrics`
-  
-  [View Repo](https://github.com/armaan-syed/BoiVault)
+---
+
+### 🔍 [Dark Data Detective](https://github.com/armaan-syed/Dark-data-Part_A)
+> Desktop tool for uncovering hidden clutter, duplicate files, and privacy risks on local machines.
+
+`Electron` `React` `TypeScript` `FastAPI` `Python`
+
+🧹 Scans storage for dark data, flags risky files, and helps users clean up intelligently.  
+📂 [View Repo](https://github.com/armaan-syed/Dark-data-Part_A)
+
+---
+
+### 🛡️ [PhishGuard - AI Phishing Detection Tool](https://github.com/armaan-syed/Phishing-detection-)
+> Cybersecurity app that checks suspicious URLs and emails with ML-backed phishing analysis.
+
+`React` `Vite` `Tailwind CSS` `FastAPI` `scikit-learn` `SQLite`
+
+📧 Detects phishing signals, explains risk factors clearly, and keeps a simple scan history dashboard.  
+📂 [View Repo](https://github.com/armaan-syed/Phishing-detection-)
+
+---
+
+### 🧠 [Swarm AI](https://github.com/armaan-syed/Swarm_AI)
+> Multi-agent collaboration system where several AI agents work together on complex tasks.
+
+`TypeScript` `Next.js` `Vercel AI SDK` `Multi-Agent`
+
+⚡ Built for coordinated problem-solving, shared reasoning, and real-time agent orchestration.  
+🔗 [Live Demo](https://swarm-ai-orpin.vercel.app)
+
+---
+
+### 🔐 [BioVault](https://github.com/armaan-syed/BoiVault)
+> Biometric-first crypto wallet concept designed for secure and keyless Web3 access.
+
+`React` `JavaScript` `Web3` `MetaMask` `Biometrics`
+
+👤 Combines facial authentication with MetaMask flows for a smoother and safer wallet experience.  
+📂 [View Repo](https://github.com/armaan-syed/BoiVault)
 
 <br/>
 
